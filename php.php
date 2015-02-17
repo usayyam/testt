@@ -1,3 +1,3 @@
 <?php
-    echo "Bissmilah Hirahma Niraheem";
+    echo "This is some text.";
 ?>
